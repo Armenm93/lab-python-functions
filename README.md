@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | Functions
+# LAB | Python Functions
 
 <details>
   <summary>
@@ -44,11 +44,7 @@ In this lab, you will practice one of the most fundamental concepts of programmi
 
 In this lab, you will learn how to define and call functions, pass arguments and return values. You will also learn how to call functions inside other functions and use encapsulation to hide implementation details.
 
-By the end of this lab, you will have a solid understanding of functions and be able to apply this knowledge to write efficient, reusable, and maintainable code. 
-
-**This lab builds upon the solution from the previous exercise and enhances it by incorporating functions to create more robust and improved code.**
-
-Let's get started!
+By the end of this lab, you will have a solid understanding of functions and be able to apply this knowledge to write efficient, reusable, and maintainable code. Let's get started!
 
 <br>
 
